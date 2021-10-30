@@ -9,4 +9,7 @@ def gcd(a, b):
     else:
         return gcd(b, a%b)
 
-print(gcd(12,1.2))
+print(gcd(12,500))
+
+
+
